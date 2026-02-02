@@ -1,6 +1,6 @@
 # SMARTBind
 
-This is the official repository for SMARTBind model. SMARTBind is a sequence-based RNA-ligand interaction prediction 
+This is fork of the SMARTBind model created by Jiang et all (2025). SMARTBind is a sequence-based RNA-ligand interaction prediction 
 method by leveraging contrastive learning and RNA foundation model. It can be used for RNA-ligand interaction virtual screening
 and binding site prediction for the potential ligand binders.
 
